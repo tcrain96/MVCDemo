@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tcrain\\OneDrive - Metropolitan Bible Church\\Desktop\\MVCDemo\\MVCDemo\\MVCDemo\\MVCDemo.Web.csproj": {}
+    "C:\\Users\\tcrain\\OneDrive - Metropolitan Bible Church\\Desktop\\MVCDemo\\MVCDemo\\MVCDemo.Data\\MVCDemo.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tcrain\\OneDrive - Metropolitan Bible Church\\Desktop\\MVCDemo\\MVCDemo\\MVCDemo\\MVCDemo.Web.csproj": {
+    "C:\\Users\\tcrain\\OneDrive - Metropolitan Bible Church\\Desktop\\MVCDemo\\MVCDemo\\MVCDemo.Data\\MVCDemo.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tcrain\\OneDrive - Metropolitan Bible Church\\Desktop\\MVCDemo\\MVCDemo\\MVCDemo\\MVCDemo.Web.csproj",
-        "projectName": "MVCDemo.Web",
-        "projectPath": "C:\\Users\\tcrain\\OneDrive - Metropolitan Bible Church\\Desktop\\MVCDemo\\MVCDemo\\MVCDemo\\MVCDemo.Web.csproj",
+        "projectUniqueName": "C:\\Users\\tcrain\\OneDrive - Metropolitan Bible Church\\Desktop\\MVCDemo\\MVCDemo\\MVCDemo.Data\\MVCDemo.Data.csproj",
+        "projectName": "MVCDemo.Data",
+        "projectPath": "C:\\Users\\tcrain\\OneDrive - Metropolitan Bible Church\\Desktop\\MVCDemo\\MVCDemo\\MVCDemo.Data\\MVCDemo.Data.csproj",
         "packagesPath": "C:\\Users\\tcrain\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tcrain\\OneDrive - Metropolitan Bible Church\\Desktop\\MVCDemo\\MVCDemo\\MVCDemo\\obj\\",
+        "outputPath": "C:\\Users\\tcrain\\OneDrive - Metropolitan Bible Church\\Desktop\\MVCDemo\\MVCDemo\\MVCDemo.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tcrain\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -51,9 +57,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
