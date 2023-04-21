@@ -1,23 +1,20 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using MVCDemo.Web.Models;
-using System.Diagnostics;
+﻿using MVCDemo.Data;
+using Microsoft.AspNetCore.Mvc;
 
 namespace MVCDemo.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly Employee employee;
-        private readonly Department department;
+        private readonly MVCDemoDBContext _db;
 
-        public HomeController(Employee employee,Department department)
+        public HomeController(MVCDemoDBContext db)
         {
-            
-            this.employee = employee;
-            this.department = department;
+            _db = db;
         }
 
         public IActionResult Index()
         {
+            
             return View();
         }
 

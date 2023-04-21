@@ -1,0 +1,12 @@
+C:\Users\tcrain\OneDrive - Metropolitan Bible Church\Desktop\MVCDemo\MVCDemo\MVCDemo.Data\bin\Debug\net6.0\MVCDemo.Data.deps.json
+C:\Users\tcrain\OneDrive - Metropolitan Bible Church\Desktop\MVCDemo\MVCDemo\MVCDemo.Data\bin\Debug\net6.0\MVCDemo.Data.dll
+C:\Users\tcrain\OneDrive - Metropolitan Bible Church\Desktop\MVCDemo\MVCDemo\MVCDemo.Data\bin\Debug\net6.0\MVCDemo.Data.pdb
+C:\Users\tcrain\OneDrive - Metropolitan Bible Church\Desktop\MVCDemo\MVCDemo\MVCDemo.Data\obj\Debug\net6.0\MVCDemo.Data.csproj.AssemblyReference.cache
+C:\Users\tcrain\OneDrive - Metropolitan Bible Church\Desktop\MVCDemo\MVCDemo\MVCDemo.Data\obj\Debug\net6.0\MVCDemo.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tcrain\OneDrive - Metropolitan Bible Church\Desktop\MVCDemo\MVCDemo\MVCDemo.Data\obj\Debug\net6.0\MVCDemo.Data.AssemblyInfoInputs.cache
+C:\Users\tcrain\OneDrive - Metropolitan Bible Church\Desktop\MVCDemo\MVCDemo\MVCDemo.Data\obj\Debug\net6.0\MVCDemo.Data.AssemblyInfo.cs
+C:\Users\tcrain\OneDrive - Metropolitan Bible Church\Desktop\MVCDemo\MVCDemo\MVCDemo.Data\obj\Debug\net6.0\MVCDemo.Data.csproj.CoreCompileInputs.cache
+C:\Users\tcrain\OneDrive - Metropolitan Bible Church\Desktop\MVCDemo\MVCDemo\MVCDemo.Data\obj\Debug\net6.0\MVCDemo.Data.dll
+C:\Users\tcrain\OneDrive - Metropolitan Bible Church\Desktop\MVCDemo\MVCDemo\MVCDemo.Data\obj\Debug\net6.0\refint\MVCDemo.Data.dll
+C:\Users\tcrain\OneDrive - Metropolitan Bible Church\Desktop\MVCDemo\MVCDemo\MVCDemo.Data\obj\Debug\net6.0\MVCDemo.Data.pdb
+C:\Users\tcrain\OneDrive - Metropolitan Bible Church\Desktop\MVCDemo\MVCDemo\MVCDemo.Data\obj\Debug\net6.0\ref\MVCDemo.Data.dll
