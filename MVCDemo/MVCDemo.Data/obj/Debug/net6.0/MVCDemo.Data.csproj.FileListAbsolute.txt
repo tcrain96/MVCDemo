@@ -10,3 +10,5 @@ C:\Users\tcrain\OneDrive - Metropolitan Bible Church\Desktop\MVCDemo\MVCDemo\MVC
 C:\Users\tcrain\OneDrive - Metropolitan Bible Church\Desktop\MVCDemo\MVCDemo\MVCDemo.Data\obj\Debug\net6.0\refint\MVCDemo.Data.dll
 C:\Users\tcrain\OneDrive - Metropolitan Bible Church\Desktop\MVCDemo\MVCDemo\MVCDemo.Data\obj\Debug\net6.0\MVCDemo.Data.pdb
 C:\Users\tcrain\OneDrive - Metropolitan Bible Church\Desktop\MVCDemo\MVCDemo\MVCDemo.Data\obj\Debug\net6.0\ref\MVCDemo.Data.dll
+C:\Users\tcrain\OneDrive - Metropolitan Bible Church\Desktop\MVCDemo\MVCDemo\MVCDemo.Data\bin\Debug\net6.0\MVCDemo.Data.runtimeconfig.json
+C:\Users\tcrain\OneDrive - Metropolitan Bible Church\Desktop\MVCDemo\MVCDemo\MVCDemo.Data\obj\Debug\net6.0\MVCDemo.Data.genruntimeconfig.cache

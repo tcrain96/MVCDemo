@@ -10,12 +10,12 @@ namespace MVCDemo.Data.Data
 {
     public class DepartmentsData : IDepartmentsData
     {
-        public IEnumerable<Departments> GetData()
+        public IEnumerable<Department> GetData()
         {
             throw new NotImplementedException();
         }
 
-        public Departments GetEmployeeById(int id)
+        public Department GetEmployeeById(int id)
         {
             throw new NotImplementedException();
         }

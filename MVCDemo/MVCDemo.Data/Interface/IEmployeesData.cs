@@ -4,7 +4,7 @@ namespace MVCDemo.Data.Interface
 {
     public interface IEmployeesData
     {
-        IEnumerable<Employees> GetData();
-        Employees GetEmployeeById(int id);
+        IEnumerable<Employee> GetData();
+        Employee GetEmployeeById(int id);
     }
 }

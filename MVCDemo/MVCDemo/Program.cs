@@ -1,11 +1,13 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using MVCDemo.Data;
+using MVCDemo.Data.Interface;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddScoped<IEmployeesData, EmployeesData>();
 builder.Services.AddDbContext<MVCDemoDBContext>(options => options.UseSqlServer(builder.Configuration
     .GetConnectionString("DefaultConnectionString")));
 

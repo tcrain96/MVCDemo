@@ -6,16 +6,22 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MVCDemo.Data.Data
+namespace MVCDemo.Data
 {
     public class EmployeesData : IEmployeesData
     {
-        public IEnumerable<Employees> GetData()
-        {
-            throw new NotImplementedException();
+        private readonly MVCDemoDBContext db;
+
+        public EmployeesData(MVCDemoDBContext db) {
+            this.db = db;
         }
 
-        public Employees GetEmployeeById(int id)
+        public IEnumerable<Employee> GetData()
+        {
+            return db.Employees;
+        }
+
+        public Employee GetEmployeeById(int id)
         {
             throw new NotImplementedException();
         }
